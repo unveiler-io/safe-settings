@@ -6,7 +6,7 @@ name: Node.js CI
       - opened
       - synchronize
 env:
-  DOCKER_IMAGE_NAME: yadhav/safe-settings
+  DOCKER_IMAGE_NAME: unveiler-io/safe-settings
 
 jobs:
   build:
